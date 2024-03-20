@@ -1,0 +1,30 @@
+﻿inventory_number;painting_title;technique;support;year_finished;museum;height;width;depth;without_frame_height;without_frame_width;without_frame_depth;support_state;groundlayer_state;underdrawing_state;pictural_layer_state;toplayer_state
+2077;De vrouw met de wipneus;oilpainting;panel;1879;KMSKA;65.8;56.6;8;55.3;45.7;3;good/moderate;good;NULL;NULL;good
+1857;Geraamten twistend om een gehangene;oilpainting;panel;1891;KMSKA;68.0;82.5;4.5;60.9;75.8;NULL;moderate/bad;moderate;NULL;moderate/bad;NULL
+1958;Masker en schaaldieren;oilpainting;panel;1891;KMSKA;55.0;63.0;8;32.2;40;NULL;good;good;moderate;moderate;moderate
+1959;Chinoiserieën;oilpainting;canvas;1906;KMSKA;93.0;113.0;4.5;85;105;NULL;good/moderate;good/moderate;NULL;moderate/bad;NULL
+2076;Stilleven met Chinoiserieën;oilpainting;canvas;1880;KMSKA;116.5;97.0;3;100.5;81.3;NULL;moderate;moderate;NULL;moderate;moderate
+2197;Dame met rode parasol;oilpainting;canvas;1880;KMSKA;72.0;56.8;9;53.2;38.9;NULL;moderate;good;NULL;moderate;moderate/bad
+2346;Azalea's;oilpainting;canvas;1930;KMSKA;65.5;87.0;6.5;67;89;NULL;moderate;good;NULL;moderate/bad;good
+2972;Badkoets op het strand;oilpainting;cardboard;1876;KMSKA;29.6;34.5;8;18.7;23.2;NULL;good;good;NULL;moderate;NULL
+3112;Het schilderend geraamte;oilpainting;panel;1896;KMSKA;70.5;80.7;9;37.5;46;1.25;good;good;NULL;good;moderate/bad
+3320;Man van Smarten;oilpainting;panel;1891;KMSKA;38.5;33.0;4.5;21.4;16;NULL;good;good;NULL;good/moderate;NULL
+3384;Vrouw op de golfbreker;oilpainting;canvas;1880;KMSKA;46.5;38.3;5;32;23.8;NULL;moderate;good;NULL;moderate;NULL
+2072;Adam en Eva uit het paradijs verjaagd;oilpainting;canvas;1887;KMSKA;241.0;284.0;11.3;208.1;247.2;2;good ;good ;NULL;moderate;NULL
+13071;Attributes to the fine arts ;oilpainting;panel;1889;Neue Pinakothek Munich;NULL;NULL;NULL;83;113.5;2.2;NULL;NULL;NULL;NULL;NULL
+3380;De golfbreker;oilpainting;canvas;1878;KMSKA;57.5;67.5;4.5;46.4;36.3;4;good;good/moderate;NULL;good/moderate;NULL
+2735;Het burgersalon;oilpainting;canvas;1881;KMSKA;161.0;137.0;8.5;134.9;111.3;NULL;NULL;good/moderate;NULL;NULL;NULL
+2073;De oestereetster;oilpainting;canvas;1882;KMSKA;239.0;185.0;9;207;153;2.4;NULL;NULL;NULL;NULL;NULL
+4003;De verzoeking van de heilige Antonius;oilpainting;canvas;1927;KMSKA;76.8;86.7;9;60.3;70;2;NULL;moderate;NULL;good;NULL
+1852;Namiddag in Oostende;oilpainting;canvas;1881;KMSKA;130.8;154.4;7.7;111;134.1;2.5;good/moderate;good/moderate;NULL;good/moderate;NULL
+23976;Skeletten in het atelier;oilpainting;canvas;1900;National Gallery of Canada;136.8;105.6;12.5;114;81.5;2;NULL;NULL;NULL;NULL;NULL
+2935;Judas slingert de zilverlingen in de tempel;NULL;canvas;1880;Phoebus Foundation;67.3;58.0;1.7;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+3154;Geraamten in travestie;NULL;canvas;1894;Phoebus Foundation;20.0;36.7;1.6;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+3294;De lampenist;NULL;canvas;1880;KMSKB;151.5;91.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+4188;Portret van de vader van de kunstenaar;NULL;canvas;1881;KMSKB;100.0;80.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+SM000162;Fort Wellington;oilpainting;panel;1876;Mu.ZEE;18.5;24.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+SM000160;De gendarmen;mixed media;panel;1892;Mu.ZEE;45.0;55.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+M1;De intrige (late versie);NULL;canvas;1911;Minneapolis Institute of Art;94.5;111.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+M2;Meadow Flowers/Portrait of a horticulturalist;NULL;canvas glued to the panel;1883;Minneapolis Institute of Art;113.0;97.5;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+1995A;Skelet bekijkt chinoiserieen;NULL;canvas;1888;MSK Gent;61.0;101.0;2.8;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+2007B;Pierrot en skelet in een gele toga;NULL;panel;1893;MSK Gent;48.0;38.0;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
